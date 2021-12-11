@@ -1,0 +1,45 @@
+The most populous cities in the world from 1500 to 2018
+Population (thousands)
+Sources: SEDAC; United Nations; Demographia
+
+12
+1500,Beijing,China,672,East Asia
+1500,Cairo,Egypt,400,Middle East
+1500,Cuttack,India,140,South Asia
+1500,Fez,Morocco,130,Middle East
+1500,Gauda,India,200,South Asia
+1500,Guangzhou,China,150,East Asia
+1500,Hangzhou,China,250,East Asia
+1500,Istanbul,Turkey,200,Europe
+1500,Nanjing,China,147,East Asia
+1500,Paris,France,185,Europe
+1500,Tabriz,Iran,250,Middle East
+1500,Vijayanagar,India,500,South Asia
+
+12
+1501,Beijing,China,672,East Asia
+1501,Cairo,Egypt,399,Middle East
+1501,Cuttack,India,139,South Asia
+1501,Fez,Morocco,130,Middle East
+1501,Gauda,India,200,South Asia
+1501,Guangzhou,China,150,East Asia
+1501,Hangzhou,China,250,East Asia
+1501,Istanbul,Turkey,205,Europe
+1501,Nanjing,China,147,East Asia
+1501,Paris,France,186,Europe
+1501,Tabriz,Iran,248,Middle East
+1501,Vijayanagar,India,500,South Asia
+
+12
+1502,Beijing,China,673,East Asia
+1502,Cairo,Egypt,398,Middle East
+1502,Cuttack,India,138,South Asia
+1502,Fez,Morocco,130,Middle East
+1502,Gauda,India,200,South Asia
+1502,Guangzhou,China,150,East Asia
+1502,Hangzhou,China,250,East Asia
+1502,Istanbul,Turkey,210,Europe
+1502,Nanjing,China,147,East Asia
+1502,Paris,France,186,Europe
+1502,Tabriz,Iran,246,Middle East
+1502,Vijayanagar,India,499,South Asia
