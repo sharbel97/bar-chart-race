@@ -11,3 +11,8 @@ To get started, make sure you have GNU based compiler installed as this entire p
 3. In terminal, run: `make build` then: `make run`
 
 It is currently hardcoded to display the most populous cities in the world from 1500 to 2018. The application.cpp file is pretty small, feel free to see how you can manipulate it to see other kind of data. 
+
+
+Disclaimer to university student programmers:
+
+- do not copy or submit this code as your own. I'm not responsible for any consequences with regards to academic integrity. Always consult your department before you do anything.
