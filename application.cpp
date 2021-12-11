@@ -38,7 +38,7 @@ int main() {
 		bca.addFrame(inFile);
 	}
 	
-	bca.animate(cout, 12, 50);
+	bca.animate(cout, 12, -1);
 
     return 0;
 }
